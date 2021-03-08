@@ -1,0 +1,18 @@
+total 256
+drwx------@  5 mntmtt  staff   160 14 Feb 04:11 Applications
+drwx------@  4 mntmtt  staff   128 24 Feb 03:48 Applications (Parallels)
+drwxrwxr-x@  3 mntmtt  staff    96 16 Feb 00:05 Creative Cloud Files
+drwx------+ 12 mntmtt  staff   384 24 Feb 03:17 Desktop
+drwx------+ 34 mntmtt  staff  1088 14 Feb 04:09 Documents
+drwx------+ 48 mntmtt  staff  1536 20 Feb 17:41 Downloads
+drwxr-xr-x@ 27 mntmtt  staff   864 16 Feb 00:26 Icons
+drwx------@ 67 mntmtt  staff  2144 21 Feb 18:06 Library
+drwx------+ 13 mntmtt  staff   416 14 Feb 04:11 Movies
+drwx------+  7 mntmtt  staff   224 14 Feb 04:11 Music
+drwx------   3 mntmtt  staff    96 14 Feb 03:55 Parallels
+drwx------+ 25 mntmtt  staff   800 14 Feb 04:12 Pictures
+drwxr-xr-x+  4 mntmtt  staff   128 14 Feb 01:45 Public
+-rwxr-xr-x@  1 mntmtt  staff   272 20 Dic 22:34 film.cri
+-rwxr-xr-x@  1 mntmtt  staff   272 24 Feb 20:11 film.cria
+drwxr-xr-x@ 12 mntmtt  staff   384 16 Feb 05:24 gitHub
+drwxr-xr-x@  7 mntmtt  staff   224 16 Feb 00:27 planetExpress

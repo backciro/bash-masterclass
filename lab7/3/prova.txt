@@ -1,0 +1,5 @@
+allora questa qua
+e una prova di testa
+scritta con nano perche 
+non so redirigere l output
+EOF

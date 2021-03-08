@@ -1,0 +1,7 @@
+questo file,
+contiene righe
+di testo 
+che presentano virgole
+ok,
+e che presentano 
+punti.
